@@ -2,6 +2,8 @@
 
 **StellarisPulvis/StellarisPulvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I'm Stellaris Pulvis, I'm a lover for learning Rust and Python😊. Welcome to follow me and give me some suggestions!👏
+
 <!--
 Here are some ideas to get you started:
 
